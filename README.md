@@ -34,7 +34,7 @@
 ## Code
 ```
 import requests, os
-#Devoloped By Akash Vau
+
 os.system('clear')
 url = "http://www.facebook.com.com/play.itnow"
 timeout = 5
@@ -45,14 +45,14 @@ except (requests.ConnectionError, requests.Timeout) as exception:
 	print("No internet connection.")
 	```
 
-## Inbox for help
 
-<a href="https://m.me/play.itnow"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
+
+
 
 ## **Contact With Us**
 
 * Page : https://www.facebook.com/play.itnow
 * Telegram : https://t.me/Allizwel1
 * Instagram : https://www.instagram.com/omar_dame
-* GitHub : https://www.github.com/OMAR7WR
+
 

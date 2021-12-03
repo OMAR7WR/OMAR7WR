@@ -31,6 +31,17 @@
 
 <a href="https://fb.com/play.itnow"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a>
 
+
+ ​[![​Top Langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=OMAR7WR&layout=compact)](https://github.com/OMAR7WR) 
+  
+  
+ ​<br> 
+  
+ ​##​ ​TOTAL VIEW : 
+ ​<br> 
+  
+ ​![​Visitor Count​](https://profile-counter.glitch.me/OMAR7WR/count.svg)
+
 ## Code
 ```
 import requests, os
